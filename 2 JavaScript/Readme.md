@@ -2,8 +2,7 @@
 
 **Отчет**
 
-Максим: Выполненные задания находятся в этом репозитории: https://github.com/MaximEsin/
-LearnJavaScriptCourse
+Максим: Выполненные задания находятся в этом репозитории: https://github.com/MaximEsin/LearnJavaScriptCourse
 
 Никита: Выполненные задания находятся в этом репозитории: https://github.com/NikitaEsin/JSCourse
 
